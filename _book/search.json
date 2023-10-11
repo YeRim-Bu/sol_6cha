@@ -12,5 +12,19 @@
     "title": "2  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sol_6cha1",
+    "section": "",
+    "text": "해결지향소통 6주차\n\n로컬 -> 원격으로 다운받기"
+  },
+  {
+    "objectID": "plusfile.html",
+    "href": "plusfile.html",
+    "title": "3  페이지 추가하기",
+    "section": "",
+    "text": "1. quarto.yml페이지에 들어가기\n2. chapter page칸에 자기가 원하는 이름으로 페이지 추가\n3. 새 콰토 문서 만들기\n4. 저장하기\n\n파일은 절대 다른 페이지와 함께 있는 곳에 저장해야 한다.\nintro, index있는 그 파일있는 파일 내부에 함께 저장\n파일 제목은 yml에 추가한 이름과 똑같이 할 것\n렌더링 돌리기 전에 야믈 한 번 저장해주고 렌더링 돌리기\n\n5. 렌더링 돌려서 확인"
   }
 ]

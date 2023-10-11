@@ -1,0 +1,29 @@
+# 1. 로컬 -\> 원격
+
+1.  파일 -\> 뉴 프로젝트 -\> 콰토북 만들기
+
+2.  Tool -\> project option -\> git/svn들어가서 파일 git으로 바꾸고 재구동
+
+    -   뭐 있어도 그냥 ok ok 하기
+
+3.  터미널로 들어가서 git remote add origin (다운받을 git 페이지 주소) 치기
+
+    -   다운 받으면 아래처럼 결과가 깔끔하게 뜬다.
+
+        ![](http://localhost:7302/images/image-847616867.png)
+
+    -   오류날 수 있음
+
+        ![](http://localhost:7302/images/image-938594620.png)
+
+        -   error 부분 볼 것 : 중복 파일로 gitignore이 있으니 원격에서 삭제해줄 것 요망.
+
+            -\> 삭제하고 다시 git remote add origin 입력.
+
+    이렇게 하면 끝 완료\~
+
+## 추가 팁
+
+-   렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭
+
+-   넷플리파이 로그인할 때 git이랑 권한 오류 떳을 시 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "intro.html#추가-팁",
+    "href": "intro.html#추가-팁",
+    "title": "1  1. 로컬 -> 원격",
+    "section": "1.1 추가 팁",
+    "text": "1.1 추가 팁\n\n렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭\n넷플리파이 로그인할 때 git이랑 권한 오류 떳을 시 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  }
+]

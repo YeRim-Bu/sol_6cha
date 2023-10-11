@@ -10,11 +10,7 @@
 
     -   다운 받으면 아래처럼 결과가 깔끔하게 뜬다.
 
-        ![](http://localhost:7302/images/image-847616867.png)
-
     -   오류날 수 있음
-
-        ![](http://localhost:7302/images/image-938594620.png)
 
         -   error 부분 볼 것 : 중복 파일로 gitignore이 있으니 원격에서 삭제해줄 것 요망.
 

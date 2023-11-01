@@ -1,4 +1,4 @@
-# 7차시 {.unnumbered}
+# sol_7주차 {.unnumbered}
 
 # The Divided Mind
 
@@ -59,6 +59,7 @@ https://learn.constructivedialogue.org/courses/b7685571-2863-4511-8e38-362884c19
 -   ddd
 
 # **Cognitive Biases(인지 편향)**
+
 **Confirmation Bias(확증편향)**
 
 -   우리가 이미 갖고 있는 신념과 일치하는 것은 쉽게 받아들이고 맞지 않는 것은 거절한다.

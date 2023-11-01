@@ -8,9 +8,10 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - sol_10.qmd
+    - sol_7.qmd
     - plusfile.qmd
+    - sol_11.qmd
 
 bibliography: references.bib
 

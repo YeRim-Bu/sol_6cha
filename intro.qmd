@@ -31,3 +31,12 @@ git pull origin main
 -   렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭
 
 -   넷플리파이 로그인할 때 git이랑 권한 오류 떳을 시 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것
+
+# 저장할 때
+
+-   git add .
+    git commit -m "변경사항메모"
+
+
+
+

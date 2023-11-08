@@ -18,6 +18,14 @@
 
     이렇게 하면 끝 완료\~
 
+4.  그 다음으로 쳐야할 것
+
+         git config --global user.email "user\@example.com"
+
+         git config --global user.name "user name"
+
+git pull origin main
+
 ## 추가 팁
 
 -   렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭

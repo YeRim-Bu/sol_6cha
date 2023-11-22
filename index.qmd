@@ -1,4 +1,9 @@
-# 해결지향소통 6주차 {.unnumbered}
+# Preface {.unnumbered}
 
-1.  로컬 -\> 원격으로 다운받기
-2.  페이지 추가하기
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```

@@ -18,14 +18,14 @@
     "href": "index.html",
     "title": "sol_6cha1",
     "section": "",
-    "text": "해결지향소통 6주차\n\n로컬 -> 원격으로 다운받기\n페이지 추가하기"
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "plusfile.html",
     "href": "plusfile.html",
     "title": "3  페이지 추가하기",
     "section": "",
-    "text": "1. quarto.yml페이지에 들어가기\n2. chapter page칸에 자기가 원하는 이름으로 페이지 추가\n3. 새 콰토 문서 만들기\n4. 저장하기\n\n파일은 절대 다른 페이지와 함께 있는 곳에 저장해야 한다.\nintro, index있는 그 파일있는 파일 내부에 함께 저장\n파일 제목은 yml에 추가한 이름과 똑같이 할 것\n렌더링 돌리기 전에 야믈 한 번 저장해주고 렌더링 돌리기\n\n5. 렌더링 돌려서 확인"
+    "text": "1. quarto.yml페이지에 들어가기\n2. chapter page칸에 자기가 원하는 이름으로 페이지 추가\n3. 새 콰토 문서 만들기\n4. 새 콰토 문서 저장하기\n\n파일은 절대 다른 페이지와 함께 있는 곳에 저장해야 한다.\nintro, index있는 그 파일있는 파일 내부에 함께 저장\n파일 제목은 yml에 추가한 이름과 똑같이 할 것(.qmd는 확장자명이라 적지 않아도 됨)\n야믈 한 번 저장해주고 렌더링 돌리기\n\n5. 렌더링 돌려서 콰토 북 목록에 추가되었는지 확인"
   },
   {
     "objectID": "references.html",
@@ -39,7 +39,7 @@
     "href": "sol_10.html",
     "title": "2  sol_10주차",
     "section": "",
-    "text": "3 Us and Them"
+    "text": "3 Us and Them\n-> 이슈에 대해 도덕 기반을 적용하는 종류는 같을 수 있어도 적용 대상은 다를 수 있다. - 관점이 크게 다른 것 같지만 크게 다르지는 않다"
   },
   {
     "objectID": "sol_7.html",
@@ -74,7 +74,7 @@
     "href": "sol_10.html#loyalty",
     "title": "2  sol_10주차",
     "section": "13.4 loyalty",
-    "text": "13.4 loyalty\n\n충성 : 내집단에 대한 충성. 윗사람에 대한 충성이 아님. 소속감에"
+    "text": "13.4 loyalty\n\n충성 : 내집단에 대한 충성. 윗사람에 대한 충성이 아님. 소속감에 가까움"
   },
   {
     "objectID": "sol_10.html#authority",
@@ -89,5 +89,26 @@
     "title": "2  sol_10주차",
     "section": "13.6 sanctity",
     "text": "13.6 sanctity\n\n성스러움 : 순결하거나 신성에 대한 것. care와는 구분됨. care는 위해를 끼치는 것에 대한 거부. 근데 sanctity는 깨끗한 것, 순수한 것, 순결한 것에 대한 욕망이 있다.\n대표적으로 종교, 자연, 사람의 몸같은 것을 의미."
+  },
+  {
+    "objectID": "sol_10.html#recap요약",
+    "href": "sol_10.html#recap요약",
+    "title": "2  sol_10주차",
+    "section": "17.1 Recap(=요약)",
+    "text": "17.1 Recap(=요약)\n\n우리는 다른 측면을 실제보다 더 극단적인 것으로 생각한다.\n우리는 6가지 도덕 기반을 전부 갖고 있다.\n삶의 경험은 우리의 도덕적 관점을 형성하는데 굉장히 큰 역할을 한다.\n보수와 진보는 이런 방법의 다른 방법, 정도로 도덕 기반에 의지한다.\n우리는 사람의 언어를 통해서 그 사람들이 믿고 하는 것에 대해 해독할 수 있다."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  1. 로컬 -> 원격",
+    "section": "",
+    "text": "2 저장할 때"
+  },
+  {
+    "objectID": "sol_11.html",
+    "href": "sol_11.html",
+    "title": "4  sol_11주차",
+    "section": "",
+    "text": "5 Get Curious\n\n우리가 어떤 대화를 할 떄 논쟁적인 부분에서 탐색하려는 부분이 필요할 것이다. 서로 연결하고 이해하려는 부분으로 바꿀 수 있는데 이걸 탐험가적 마음가짐이라고 한다.\n\n\n\n6 Warrior Mindset\n\n같은 도덕 기반을 갖고 있지만 우리는 종종 특정한 가치만이 옳다고 생각할 수 있다. 그 결과 서로 의견 불일치가 생긴다.\n이기고 지는 경쟁관계가 되면 제로섬 관계가 된다. 이런 싸움꾼의 마음가짐으로서는 이기는 마음가짐만 있고 듣는 것이 이뤄지지 않는다.\n\n\n\n7 Warriors Lose\n\n이기면 기분은 좋겠지만 이건 안 좋은 결과로 이끈다.’\n\n다른 한 쪽을 방어적인 쪽으로 이끌거나\n공격/모욕/위협 받는 것처럼 느껴지게 한다.\n그 사람과의 관계는 손상된다.\n-> 싸움꾼의 마인드 셋은 별로 안 좋다는 것을 알 수 있다.\n\n\n\n\n8 Being Wrong\n\n모든 사람들은 내가 옳다는 느낌을 받고 싶어하고, 자신이 틀리다는 느낌을 싫어한다.\n우리는 가끔씩 틀리는데 그런 느낌을 받지 못했을 때 틀린다.\n\n\n\n9 설명 깊이의 착각\n\n우리는 어떤 기계의 작동 원리를 잘 알고 있다고 착각함.\n세상의 복잡한 쟁점에 대해서는 자신이 잘 안다고 생각하지만 실제로는 그렇지 않다\n설명하다 보면 내가 생각보다 잘 알고 있지 않다는 것을 알 수 있다\n\n\n\n10 Embracing Not Knowing\n\n우리는 실제로 잘 알지 못하지만 그 쟁점에 대해 강한 인상은 있다.\n설명 해 보라고 했을 때 우리는 이걸 잘 알고 있지 못하다는 걸 알 수 있다. 그런 사실을 알고 있는 게 굉장히 건강한 일이라는 걸 알 수 있다.\n\n\n\n11 Intellectual Humility\n\n우리가 알고 있는 것에 한정되어 있고, 자신이 틀릴 수 있다는 걸 인정하는 게 굉장히 중요하다 이런 걸 ’지적 겸손’이라고 한다.\n\n내가 틀렸다는 걸 받아들이는 게 삶의 이유다\n비판을 잘 받아들일 수 있어야 함.\n자신이 틀리는 걸 자신의 성장 기회로 봄"
   }
 ]

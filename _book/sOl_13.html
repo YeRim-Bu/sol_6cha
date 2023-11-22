@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>sol_6cha1 - 1&nbsp; 1. 로컬 -&gt; 원격</title>
+<title>sol_6cha1 - 5&nbsp; Sol_13주차</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./sol_10.html" rel="next">
-<link href="./index.html" rel="prev">
+<link href="./sol_11.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -70,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">1. 로컬 -&gt; 원격</span></h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Sol_13주차</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -100,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./intro.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">1. 로컬 -&gt; 원격</span></a>
+  <a href="./intro.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">1. 로컬 -&gt; 원격</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -125,7 +124,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sOl_13.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Sol_13주차</span></a>
+  <a href="./sOl_13.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Sol_13주차</span></a>
   </div>
 </li>
     </ul>
@@ -133,21 +132,14 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#추가-팁" id="toc-추가-팁" class="nav-link active" data-scroll-target="#추가-팁"><span class="toc-section-number">1.1</span>  추가 팁</a></li>
-  <li><a href="#저장할-때" id="toc-저장할-때" class="nav-link" data-scroll-target="#저장할-때"><span class="toc-section-number">2</span>  저장할 때</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">1. 로컬 -&gt; 원격</span></h1>
+<h1 class="title d-none d-lg-block"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Sol_13주차</span></h1>
 </div>
 
 
@@ -162,43 +154,8 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<ol type="1">
-<li><p>파일 -&gt; 뉴 프로젝트 -&gt; 콰토북 만들기</p></li>
-<li><p>Tool -&gt; project option -&gt; git/svn들어가서 파일 git으로 바꾸고 재구동</p>
-<ul>
-<li>뭐 있어도 그냥 ok ok 하기</li>
-</ul></li>
-<li><p>터미널로 들어가서 git remote add origin (다운받을 git 페이지 주소) 치기</p>
-<ul>
-<li><p>다운 받으면 아래처럼 결과가 깔끔하게 뜬다.</p></li>
-<li><p>오류날 수 있음</p>
-<ul>
-<li><p>error 부분 볼 것 : 중복 파일로 gitignore이 있으니 원격에서 삭제해줄 것 요망.</p>
-<p>-&gt; 삭제하고 다시 git remote add origin 입력.</p></li>
-</ul></li>
-</ul>
-<p>이렇게 하면 끝 완료~</p></li>
-<li><p>그 다음으로 쳐야할 것</p>
-<pre><code> git config --global user.email "user\@example.com"
-
- git config --global user.name "user name"</code></pre></li>
-</ol>
-<p>git pull origin main</p>
-<section id="추가-팁" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="추가-팁"><span class="header-section-number">1.1</span> 추가 팁</h2>
-<ul>
-<li><p>렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭</p></li>
-<li><p>넷플리파이 로그인할 때 git이랑 권한 오류 떳을 시 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것</p></li>
-</ul>
-</section>
-<section id="저장할-때" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> 저장할 때</h1>
-<ul>
-<li>git add . git commit -m “변경사항메모”</li>
-</ul>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -336,14 +293,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./index.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Preface</span>
+      <a href="./sol_11.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">sol_11주차</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./sol_10.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">sol_10주차</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

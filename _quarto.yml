@@ -12,6 +12,7 @@ book:
     - sol_7.qmd
     - plusfile.qmd
     - sol_11.qmd
+    - sOl_13.qmd
 
 bibliography: references.bib
 

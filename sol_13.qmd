@@ -18,15 +18,12 @@
 
 # There's a stroy For Everthing
 
-By now you might be thinking, "Do I need a story for everything I believe? Can't I just believe something without having direct personal experience to back it up?"
+-   어떤 문제에 대해 감정을 느끼는데 꼭 직접적인 경험이 필요하지 않다.
 
- 
-
-Great question!
-
- 
-
-We often have strong feelings about issues without really thinking about what's driving them. But when you take the time to think about it, there's a reason why you feel the way you do about an issue. And that reason is usually connected to a story, even if it's not your own firsthand experience. As long as a story is rooted in your own values, emotions, and beliefs, it can be compelling to anyone listening.
+```{=html}
+<!-- -->
+```
+-   우리는 문제에 대해 강한 감정을 갖지만, 그 원인에 대해 생각하지 않는다. 하지만 시간을 내어 생각해보면 문제에 대해 느끼는 방식에는 이유가 있을 것이다.
 
 # Secondhand Stories
 

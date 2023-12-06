@@ -8,9 +8,9 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - sol_10.qmd
-    - sol_7.qmd
     - plusfile.qmd
+    - sol_7.qmd
+    - sol_10.qmd
     - sol_11.qmd
     - sOl_13.qmd
 

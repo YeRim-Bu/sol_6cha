@@ -20,11 +20,9 @@
 
 4.  그 다음으로 쳐야할 것
 
-    ```         
-     git config --global user.email "user\@example.com"
+         git config --global user.email "user\@example.com"
 
-     git config --global user.name "user name"
-    ```
+         git config --global user.name "user name"
 
 git pull origin main
 
@@ -33,6 +31,8 @@ git pull origin main
 -   렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭
 
 -   넷플리파이 로그인할 때 git이랑 권한 오류 떳을 시 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것
+
+-   넷플리파일에 html에 대해 연동이 되지 않을 때 -\> 렌더링한 번 돌릴 것
 
 # 저장할 때
 

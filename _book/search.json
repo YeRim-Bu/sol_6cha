@@ -2,9 +2,9 @@
   {
     "objectID": "intro.html#추가-팁",
     "href": "intro.html#추가-팁",
-    "title": "1  1. 로컬 -> 원격",
-    "section": "1.1 추가 팁",
-    "text": "1.1 추가 팁\n\n렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭\n넷플리파이 로그인할 때 git이랑 권한 오류 떳을 시 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것\n넷플리파일에 html에 대해 연동이 되지 않을 때 -> 렌더링한 번 돌릴 것"
+    "title": "1  로컬 -> 원격",
+    "section": "2.1 추가 팁",
+    "text": "2.1 추가 팁\n\n렌더링 돌려서 안 되면book파일에서 html파일 찾고 View in web browser 클릭\n넷플리파이 로그인할 때 git이랑 권한 오류가 날 때 - git이랑 연동하지 말고 그냥 이메일로 로그인할 것\n수정된 파일이 깃허브엔 반영이 되지만 넷플리파이엔 연동 되지 않을 때 -&gt; 파일 전체 렌더링 돌리고 다시 push할 것.\n터미널에 붙여넣기가 안 될 때 -&gt; ctrl + shift + v로 붙여넣기 가능"
   },
   {
     "objectID": "summary.html",
@@ -18,12 +18,12 @@
     "href": "index.html",
     "title": "sol_6cha1",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "해결지향소통\n\n쿼토북을 깃허브에 연결하기\n페이지 추가하기\nThe Divided Mind\nUs and Them\nGet Curious\nStorytelling\nNavigating Conflict\nComment"
   },
   {
     "objectID": "plusfile.html",
     "href": "plusfile.html",
-    "title": "3  페이지 추가하기",
+    "title": "2  페이지 추가하기",
     "section": "",
     "text": "1. quarto.yml페이지에 들어가기\n2. chapter page칸에 자기가 원하는 이름으로 페이지 추가\n3. 새 콰토 문서 만들기\n4. 새 콰토 문서 저장하기\n\n파일은 절대 다른 페이지와 함께 있는 곳에 저장해야 한다.\nintro, index있는 그 파일있는 파일 내부에 함께 저장\n파일 제목은 yml에 추가한 이름과 똑같이 할 것(.qmd는 확장자명이라 적지 않아도 됨)\n야믈 한 번 저장해주고 렌더링 돌리기\n\n5. 렌더링 돌려서 콰토 북 목록에 추가되었는지 확인"
   },
@@ -37,9 +37,9 @@
   {
     "objectID": "sol_10.html",
     "href": "sol_10.html",
-    "title": "2  sol_10주차",
+    "title": "4  sol_10주차",
     "section": "",
-    "text": "3 Us and Them\n-> 이슈에 대해 도덕 기반을 적용하는 종류는 같을 수 있어도 적용 대상은 다를 수 있다. - 관점이 크게 다른 것 같지만 크게 다르지는 않다"
+    "text": "5 Us and Them\n-&gt; 이슈에 대해 도덕 기반을 적용하는 종류는 같을 수 있어도 적용 대상은 다를 수 있다. - 관점이 크게 다른 것 같지만 크게 다르지는 않다"
   },
   {
     "objectID": "sol_7.html",
@@ -51,58 +51,58 @@
   {
     "objectID": "sol_10.html#care",
     "href": "sol_10.html#care",
-    "title": "2  sol_10주차",
-    "section": "13.1 care",
-    "text": "13.1 care\n\n돌봄 기반 : 다른 사람을 돌봐주는 것, 위해를 끼치는 것을 막는 것 도덕 기반을 우선시하는 사람들은 공감, 친절함을 우선시한다."
+    "title": "4  sol_10주차",
+    "section": "15.1 care",
+    "text": "15.1 care\n\n돌봄 기반 : 다른 사람을 돌봐주는 것, 위해를 끼치는 것을 막는 것 도덕 기반을 우선시하는 사람들은 공감, 친절함을 우선시한다."
   },
   {
     "objectID": "sol_10.html#faimess",
     "href": "sol_10.html#faimess",
-    "title": "2  sol_10주차",
-    "section": "13.2 Faimess",
-    "text": "13.2 Faimess\n\n공평: 모두가 공평하게 대접받길 원하기에 사기꾼을 싫어한다. 그리고 직접 속인 사람이 아니더라도 속임수를 싫어한다. 이 공평 기반은 정의, 공평, 상호성을 중요시한다."
+    "title": "4  sol_10주차",
+    "section": "15.2 Faimess",
+    "text": "15.2 Faimess\n\n공평: 모두가 공평하게 대접받길 원하기에 사기꾼을 싫어한다. 그리고 직접 속인 사람이 아니더라도 속임수를 싫어한다. 이 공평 기반은 정의, 공평, 상호성을 중요시한다."
   },
   {
     "objectID": "sol_10.html#liberty",
     "href": "sol_10.html#liberty",
-    "title": "2  sol_10주차",
-    "section": "13.3 liberty",
-    "text": "13.3 liberty\n\n자유 : 개인의 자유에 대한 이상, 압제에 대한 반대가 높다."
+    "title": "4  sol_10주차",
+    "section": "15.3 liberty",
+    "text": "15.3 liberty\n\n자유 : 개인의 자유에 대한 이상, 압제에 대한 반대가 높다."
   },
   {
     "objectID": "sol_10.html#loyalty",
     "href": "sol_10.html#loyalty",
-    "title": "2  sol_10주차",
-    "section": "13.4 loyalty",
-    "text": "13.4 loyalty\n\n충성 : 내집단에 대한 충성. 윗사람에 대한 충성이 아님. 소속감에 가까움"
+    "title": "4  sol_10주차",
+    "section": "15.4 loyalty",
+    "text": "15.4 loyalty\n\n충성 : 내집단에 대한 충성. 윗사람에 대한 충성이 아님. 소속감에 가까움"
   },
   {
     "objectID": "sol_10.html#authority",
     "href": "sol_10.html#authority",
-    "title": "2  sol_10주차",
-    "section": "13.5 authority",
-    "text": "13.5 authority\n\n권위 : 합법적인 것, 전통에 대한 존중."
+    "title": "4  sol_10주차",
+    "section": "15.5 authority",
+    "text": "15.5 authority\n\n권위 : 합법적인 것, 전통에 대한 존중."
   },
   {
     "objectID": "sol_10.html#sanctity",
     "href": "sol_10.html#sanctity",
-    "title": "2  sol_10주차",
-    "section": "13.6 sanctity",
-    "text": "13.6 sanctity\n\n성스러움 : 순결하거나 신성에 대한 것. care와는 구분됨. care는 위해를 끼치는 것에 대한 거부. 근데 sanctity는 깨끗한 것, 순수한 것, 순결한 것에 대한 욕망이 있다.\n대표적으로 종교, 자연, 사람의 몸같은 것을 의미."
+    "title": "4  sol_10주차",
+    "section": "15.6 sanctity",
+    "text": "15.6 sanctity\n\n성스러움 : 순결하거나 신성에 대한 것. care와는 구분됨. care는 위해를 끼치는 것에 대한 거부. 근데 sanctity는 깨끗한 것, 순수한 것, 순결한 것에 대한 욕망이 있다.\n대표적으로 종교, 자연, 사람의 몸같은 것을 의미."
   },
   {
     "objectID": "sol_10.html#recap요약",
     "href": "sol_10.html#recap요약",
-    "title": "2  sol_10주차",
-    "section": "17.1 Recap(=요약)",
-    "text": "17.1 Recap(=요약)\n\n우리는 다른 측면을 실제보다 더 극단적인 것으로 생각한다.\n우리는 6가지 도덕 기반을 전부 갖고 있다.\n삶의 경험은 우리의 도덕적 관점을 형성하는데 굉장히 큰 역할을 한다.\n보수와 진보는 이런 방법의 다른 방법, 정도로 도덕 기반에 의지한다.\n우리는 사람의 언어를 통해서 그 사람들이 믿고 하는 것에 대해 해독할 수 있다."
+    "title": "4  sol_10주차",
+    "section": "19.1 Recap(=요약)",
+    "text": "19.1 Recap(=요약)\n\n우리는 다른 측면을 실제보다 더 극단적인 것으로 생각한다.\n우리는 6가지 도덕 기반을 전부 갖고 있다.\n삶의 경험은 우리의 도덕적 관점을 형성하는데 굉장히 큰 역할을 한다.\n보수와 진보는 이런 방법의 다른 방법, 정도로 도덕 기반에 의지한다.\n우리는 사람의 언어를 통해서 그 사람들이 믿고 하는 것에 대해 해독할 수 있다."
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  1. 로컬 -> 원격",
+    "title": "1  로컬 -> 원격",
     "section": "",
-    "text": "2 저장할 때"
+    "text": "2 2. 저장할 때(원격 -&gt; 로컬)"
   },
   {
     "objectID": "sol_11.html",
@@ -116,7 +116,7 @@
     "href": "sol_11.html#life-hack",
     "title": "4  sol_11주차",
     "section": "15.1 Life Hack",
-    "text": "15.1 Life Hack\nTry using the questions below to guide you:\n\nWhy is this issue important to you?\n\n이게 너한테 왜 중요해?\n\nCan you tell me more?\n\n더 자세히 말해줄래\n\nCan you share more about what you mean when you say\n\n니가 말한거 뭔 뜻인지 좀 더 말해줘\n\nWhy do you think that is?\n\n왜 그렇게 생각하는거야?\n\nCan you share something about your experience that may have led you to believe ?\n\n이런 생각을 가지게 된 니 경험을 말해줘\n\nIs there anything about where you feel conflicted or pulled in two different directions?\n\n복잡하다거나 방향성이 안 맞는 경우는 없었을까? (모순점, 충돌점)\n\nWhat is at stake for you or someone you know about this issue?\n\n이 쟁점에 관련된 이해관계는 없니?\n\nWhy do you think you care so deeply about this issue?\n\n이 쟁점에 깊이 관여한 이유는 뭐야?\n\nHave you always felt that way?\n\n넌 늘 그렇게 생각하는거야?\n\n\nJH> 남을 판단하는 질문 자제. 그 의견을 가지는 이유는 뭘까? 물어봐야지"
+    "text": "15.1 Life Hack\nTry using the questions below to guide you:\n\nWhy is this issue important to you?\n\n이게 너한테 왜 중요해?\n\nCan you tell me more?\n\n더 자세히 말해줄래\n\nCan you share more about what you mean when you say\n\n니가 말한거 뭔 뜻인지 좀 더 말해줘\n\nWhy do you think that is?\n\n왜 그렇게 생각하는거야?\n\nCan you share something about your experience that may have led you to believe ?\n\n이런 생각을 가지게 된 니 경험을 말해줘\n\nIs there anything about where you feel conflicted or pulled in two different directions?\n\n복잡하다거나 방향성이 안 맞는 경우는 없었을까? (모순점, 충돌점)\n\nWhat is at stake for you or someone you know about this issue?\n\n이 쟁점에 관련된 이해관계는 없니?\n\nWhy do you think you care so deeply about this issue?\n\n이 쟁점에 깊이 관여한 이유는 뭐야?\n\nHave you always felt that way?\n\n넌 늘 그렇게 생각하는거야?\n\n\nJH&gt; 남을 판단하는 질문 자제. 그 의견을 가지는 이유는 뭘까? 물어봐야지"
   },
   {
     "objectID": "sol_11.html#elephant",
@@ -137,7 +137,7 @@
     "href": "sOl_13.html",
     "title": "5  Sol_13주차",
     "section": "",
-    "text": "6 Let’s Find someting to Talk About\n이야기가 같고 있는 힘. 그냥 말하는 것보다 한 사람이 자신의 이야기리를 예시로 들며 상대방을 설득하자 더 설득이 잘 되었다.\n목적에 맞는 이야기를 쓰면 상대방은 잠재적으로 주제에 더 집중하고 이해해준다. 눈 앞에 있는 상대방과 연결고리가 있기 때문이다.\n우리가 이야기를 할 때는 3가지를 고려할 것\n1. 진정성이 있어야 한다. - 그 솔직함이 상대방을 공감할 수 있게 한다. 진실을 통해 감정(두려움, 행보그 믿음, 분노)을 공유할 수 있어야 한다.\n2. 중요성 : 말하는 이야기가 상대방에게 중요한 이야기여야 한다.\n3. 요점 : 이야기로 끝나지 않고 요점이 있어야 한다.\n: 간접적인 이야기\n자신이 직접 경험하지 않은 다른 사람의 이야기로 영향을 받는다.\n심경의 영향을 준 뉴스 스토리 : 총격 사건으로 14살 아들을 잃은 부모의 얘기를 본 후 총기 사건이 일어나선 안 된다고 생각하게 되었다. -> 타인의 얘기를 듣고 신념이 변하게 된 예시"
+    "text": "6 Let’s Find someting to Talk About\n이야기가 같고 있는 힘. 그냥 말하는 것보다 한 사람이 자신의 이야기리를 예시로 들며 상대방을 설득하자 더 설득이 잘 되었다.\n목적에 맞는 이야기를 쓰면 상대방은 잠재적으로 주제에 더 집중하고 이해해준다. 눈 앞에 있는 상대방과 연결고리가 있기 때문이다.\n우리가 이야기를 할 때는 3가지를 고려할 것\n1. 진정성이 있어야 한다. - 그 솔직함이 상대방을 공감할 수 있게 한다. 진실을 통해 감정(두려움, 행보그 믿음, 분노)을 공유할 수 있어야 한다.\n2. 중요성 : 말하는 이야기가 상대방에게 중요한 이야기여야 한다.\n3. 요점 : 이야기로 끝나지 않고 요점이 있어야 한다.\n: 간접적인 이야기\n자신이 직접 경험하지 않은 다른 사람의 이야기로 영향을 받는다.\n심경의 영향을 준 뉴스 스토리 : 총격 사건으로 14살 아들을 잃은 부모의 얘기를 본 후 총기 사건이 일어나선 안 된다고 생각하게 되었다. -&gt; 타인의 얘기를 듣고 신념이 변하게 된 예시"
   },
   {
     "objectID": "sOl_13.html#elephant",
@@ -152,5 +152,432 @@
     "title": "5  Sol_13주차",
     "section": "14.2 Detect - Pause - Redirect",
     "text": "14.2 Detect - Pause - Redirect\n\n패닉 상태임을 인지해라.\n일단 잠깐 멈춰라\n패닉존에서 벗어날 길을 찾아보자.\n\n\n14.2.1 1. Detect\n\nPhysical Sign: 얼굴 후끈, 덥거나 춥고, 손발이 차가워진다면?\nThoughts: 난 바보야 … 난 끝났어 … 생각이 든다면?\nEmotions: 불안, 좌절, 죄책감이 든다면?\nBehaviors: Fight(공격, 비난), Flight(회피), Freeze(조용히) 한다면?\n\n\n\n14.2.2 2. Pause\n\n일단 잠깐 멈추고, 심호흡 !!!!!! (1, 2, 3)\n너의 감각을 사용해서 현재의 상황을 둘러봐.\n주변에 대한 판단 대신, 너의 현 상황에 집중해봐.\n너 스스로와 긍정적인 대화를 해봐. 넌 할 수 있어, 잘했어 등.\n\n\n\n14.2.3 Take a break\n\n패닉 존에 있다면, 멈추고 다시 얘기해보자"
+  },
+  {
+    "objectID": "Navigating Conflict.html",
+    "href": "Navigating Conflict.html",
+    "title": "7  Navigating Conflict",
+    "section": "",
+    "text": "8 Lesson 5 : Navigating Conflict"
+  },
+  {
+    "objectID": "Navigating Conflict.html#our-brains-on-panick",
+    "href": "Navigating Conflict.html#our-brains-on-panick",
+    "title": "7  Navigating Conflict",
+    "section": "7.1 Our Brains on Panick",
+    "text": "7.1 Our Brains on Panick\n\n우리의 뇌는 쾌적한 존, 스트레치 존, 패닉 존으로 나뉜다. 이 중에서 패닉 존에 있을 때 우리는 아래와 같은 반응을 보인다.\n전투/도피/경직 반응 : 우리가 공황상태에 있을 때, 혹은 위협을 감지했을 때.\n\n전투 = 논쟁 또는 변호\n도피 = 회피 혹은 철수\n침묵 = 소극적 응답 혹은 조치 실패"
+  },
+  {
+    "objectID": "Navigating Conflict.html#elephant",
+    "href": "Navigating Conflict.html#elephant",
+    "title": "7  Navigating Conflict",
+    "section": "7.2 100% Elephant",
+    "text": "7.2 100% Elephant\n\n코끼리(감정)이 날뛰는 패닉존에 있을 땐, 코끼리를 스트레치존으로 데려가야 한다."
+  },
+  {
+    "objectID": "Navigating Conflict.html#detect---pause---redirect",
+    "href": "Navigating Conflict.html#detect---pause---redirect",
+    "title": "7  Navigating Conflict",
+    "section": "7.3 Detect - Pause - Redirect",
+    "text": "7.3 Detect - Pause - Redirect\n\n패닉 상태임을 인지해라.\n일단 잠깐 멈춰라\n패닉존에서 벗어날 길을 찾아보자.\n\n\n7.3.1 1. Detect\n\n작 자신이 패닉 존에 있는지 확인한다. 아래와 같은 반응이 있다면 패닉 존에 있다는 걸 알 수 있다.\n\nPhysical Sign: 얼굴 후끈, 덥거나 춥고, 손발이 차가워진다면?\nThoughts: 난 바보야 … 난 끝났어 … 생각이 든다면?\nEmotions: 불안, 좌절, 죄책감이 든다면?\nBehaviors: Fight(공격, 비난), Flight(회피), Freeze(조용히) 한다면?\n\n\n\n\n7.3.2 2. Pause\n\n공황구역에 댛나 반응을 늦춘다.\n\n일단 잠깐 멈추고, 심호흡 !!!!!! (1, 2, 3)\n너의 감각을 사용해서 현재의 상황을 둘러봐.\n주변에 대한 판단 대신, 너의 현 상황에 집중해봐.\n너 스스로와 긍정적인 대화를 해봐. 넌 할 수 있어, 잘했어 등.\n\n\n\n\n7.3.3 3. Redirect\n패닉 존을 떠나는 경로를 설정한다.\n\n역할을 소유하고 관심을 표현한다.\n\n자신의 언행에 책임을 진다. “나는 내가 ~한 적이 있다는 것을 인정한다.”\n누군가에게 당신들의 관계나 공동의 목표를 공감하거나 일깨워주다. ‘정말 우울해보여요. 다인의 생각을 더 공유할 수 있을까요?’\n\n문제를 해결하다\n\n행위 : 어떤 사람의 행동을 해석한다.\n영향 : 행동이 당에게 미친 결과\n요구 사항 : 그들엑서 무엇을 얻을 필요가 있는가?\n\n휴식하기\n\n대화를 잠시 중단합니다. ‘지금 대화해도 도움이 될 것 같지 않다. 조금만 있다가 다시 얘기하자.’\n\n\n\n\n7.3.4 Take a break\n\n패닉 존에 있다면, 멈추고 다시 얘기해보자"
+  },
+  {
+    "objectID": "The Divided Mind.html",
+    "href": "The Divided Mind.html",
+    "title": "3  The Divided Mind",
+    "section": "",
+    "text": "4 The Divided Mind\n\n내가 완벽하게 확실하다고 여기는 쟁점에 대해 상대방과 일치하지 않을 때 어떻게 상대방의 마인드를 바꿀 수 있는가\n\n\n\n5 Our Ancient Brains\n\n우리를 답답하게 하는 여러가지 불일치가 여러가지 일이 있지만 그것은 우리의 뇌가 어떻게 작동하는지 모르기 때문이다.\n우리는 복잡하고 상호 연결된 사회에서 살고 있지만 우리의 뇌는 그 기술을 따라갈 만큼 업데이트 되지 않았다.\n\n우리의 뇌는 우리 근대 사회에 적절하게 진화되지 않은 것을 알 수 있음\n\n\n\n\n6 Mental Shortcuts\n\n우리의 뇌는 초기에 생존에 맞춰서 발전해왔다. 정보를 아주 빠르게 처리하는 방법을 발전시켜 왔다\n그래서 생각을 빨리 하는 지름길을 여러 개 만들었다는 걸 알 수 있다\n우리는 여전히 주변 세상을 이해하는데 정신적 지름길을 이용하는데 현대에 와서 추론하고 의사 결정하는데 실수하게 만든다\n\n\n\n7 Our Divdied Minds\n\n우리의 뇌는 자동으로 처리되는 부분과 조절할 수 있는 부분 두 개로 나뉜다\n\n자동적인 : 감정, 직관적인 부분(생존 관련)\n통제할 수 있는 부분 : 의식적이고 분석적인 정보 처리를 한다(정보 처리가 느린 편)\n\n\n\n\n\n8 A good Deal\n\n중고차를 사려고 했는데 아주 좋은 차가 나왔다 근데 전 차 주인이 아주 유명한 연쇄살인마다.\n살것인가?\n\n\n\n9 The Rider and Elephant\n\n많은 사람들이 그 차를 사지 않으려 한다.(즉각적인 반응) 대부분은 이를 역겨워 한다.\n우리의 마음은 코끼리에 탄 사람의 마음에 비교할 수 있다\n\n통제할 수 있는 부분과 자동적인 부분의 격차가 얼마나 큰지 이해하게 하는 비유 : 고삐를 쥘 수 있지만 굉장히 힘이 센 동물 위에 앉아 있다.\n밤에 자야 하는데 TV를 보거나 계획을 미루는 것은 자동적인 부분(코끼리)를 따라간다고 할 수 있음\n\n\n\n\n10 Intuitions First, Reasoning Second\n\n우리의 코끼리는 굉장히 큰 역할을 한다. 무언가를 할 때 직관이 먼저 작동하고 의식이 그 직관을 합리화하고 정의한다\n\n이건 너무 빠르게 일어나는 일이라 의식할 수 없음.\n그래서 이런 결정을 라이더가 했다고 착각하게 함\n\n직관이 먼저 작동하고 추론은 나중에 그걸 합리화한다.\n\n\n\n11 Autopilot\n\n자동적인 게 나쁜 건 아닌데 너무 빨리 일어나다 보니까 혼돈스러울 때가 있다.\n\n\n\n12 Cognitive Biases(인지 편향)\nConfirmation Bias(확증편향)\n\n우리가 이미 갖고 있는 신념과 일치하는 것은 쉽게 받아들이고 맞지 않는 것은 거절한다.\n\n\n\n13 Whose Facts?\n\n우리의 코끼리는 정보를 기존의 직관, 느낌으로 걸러낸다 우리는 이걸 의식하지 못할 뿐만 아니라 합리화하는 걸 돕는다\n\n\n\n14 Life Hack: Swapping Places\n\n스스로의 확증편향은 알아채기 어렵지만 확인할 수 있는 방법이 있다. 우리는 이걸 ’입장 바꿔보기’라고 부른다.\n확증편향에서 벗어나는 방법\n\n내 생각이 가장 보편화된 것이라고 확신할 때\n다른 입장이나 예외를 찾아 볼 것\n\n\n\n\n15 Lesson 1 Recap\n\n우리의 뇌는 두 가지 시스템이 있다 : 자동적인 것과 통제할 수 있는것\n우리의 이성은 종종 직관을 따른다\n이 두 가지는 상충되는데 우리는 이걸 알아차리지 못한다\n우리가 실수하는 이유는 이 두 가지 요소가 의견을 불일치 했기 때문"
+  },
+  {
+    "objectID": "Us and Them.html",
+    "href": "Us and Them.html",
+    "title": "4  Us and Them",
+    "section": "",
+    "text": "5 Us and Them\n-&gt; 이슈에 대해 도덕 기반을 적용하는 종류는 같을 수 있어도 적용 대상은 다를 수 있다. - 관점이 크게 다른 것 같지만 크게 다르지는 않다"
+  },
+  {
+    "objectID": "Us and Them.html#care",
+    "href": "Us and Them.html#care",
+    "title": "4  Us and Them",
+    "section": "15.1 care",
+    "text": "15.1 care\n\n돌봄 기반 : 다른 사람을 돌봐주는 것, 위해를 끼치는 것을 막는 것 도덕 기반을 우선시하는 사람들은 공감, 친절함을 우선시한다."
+  },
+  {
+    "objectID": "Us and Them.html#faimess",
+    "href": "Us and Them.html#faimess",
+    "title": "4  Us and Them",
+    "section": "15.2 Faimess",
+    "text": "15.2 Faimess\n\n공평: 모두가 공평하게 대접받길 원하기에 사기꾼을 싫어한다. 그리고 직접 속인 사람이 아니더라도 속임수를 싫어한다. 이 공평 기반은 정의, 공평, 상호성을 중요시한다."
+  },
+  {
+    "objectID": "Us and Them.html#liberty",
+    "href": "Us and Them.html#liberty",
+    "title": "4  Us and Them",
+    "section": "15.3 liberty",
+    "text": "15.3 liberty\n\n자유 : 개인의 자유에 대한 이상, 압제에 대한 반대가 높다."
+  },
+  {
+    "objectID": "Us and Them.html#loyalty",
+    "href": "Us and Them.html#loyalty",
+    "title": "4  Us and Them",
+    "section": "15.4 loyalty",
+    "text": "15.4 loyalty\n\n충성 : 내집단에 대한 충성. 윗사람에 대한 충성이 아님. 소속감에 가까움"
+  },
+  {
+    "objectID": "Us and Them.html#authority",
+    "href": "Us and Them.html#authority",
+    "title": "4  Us and Them",
+    "section": "15.5 authority",
+    "text": "15.5 authority\n\n권위 : 합법적인 것, 전통에 대한 존중."
+  },
+  {
+    "objectID": "Us and Them.html#sanctity",
+    "href": "Us and Them.html#sanctity",
+    "title": "4  Us and Them",
+    "section": "15.6 sanctity",
+    "text": "15.6 sanctity\n\n성스러움 : 순결하거나 신성에 대한 것. care와는 구분됨. care는 위해를 끼치는 것에 대한 거부. 근데 sanctity는 깨끗한 것, 순수한 것, 순결한 것에 대한 욕망이 있다.\n대표적으로 종교, 자연, 사람의 몸같은 것을 의미."
+  },
+  {
+    "objectID": "Us and Them.html#recap요약",
+    "href": "Us and Them.html#recap요약",
+    "title": "4  Us and Them",
+    "section": "4.15 Recap(=요약)",
+    "text": "4.15 Recap(=요약)\n\n우리는 다른 측면을 실제보다 더 극단적인 것으로 생각한다.\n우리는 6가지 도덕 기반을 전부 갖고 있다.\n삶의 경험은 우리의 도덕적 관점을 형성하는데 굉장히 큰 역할을 한다.\n보수와 진보는 이런 방법의 다른 방법, 정도로 도덕 기반에 의지한다.\n우리는 사람의 언어를 통해서 그 사람들이 믿고 하는 것에 대해 해독할 수 있다."
+  },
+  {
+    "objectID": "Get Curious.html",
+    "href": "Get Curious.html",
+    "title": "5  Get Curious",
+    "section": "",
+    "text": "6 Get Curious"
+  },
+  {
+    "objectID": "Get Curious.html#life-hack",
+    "href": "Get Curious.html#life-hack",
+    "title": "5  Get Curious",
+    "section": "5.11 Life Hack",
+    "text": "5.11 Life Hack\nTry using the questions below to guide you:\n\nWhy is this issue important to you?\n\n이게 너한테 왜 중요해?\n\nCan you tell me more?\n\n더 자세히 말해줄래\n\nCan you share more about what you mean when you say\n\n니가 말한거 뭔 뜻인지 좀 더 말해줘\n\nWhy do you think that is?\n\n왜 그렇게 생각하는거야?\n\nCan you share something about your experience that may have led you to believe ?\n\n이런 생각을 가지게 된 니 경험을 말해줘\n\nIs there anything about where you feel conflicted or pulled in two different directions?\n\n복잡하다거나 방향성이 안 맞는 경우는 없었을까? (모순점, 충돌점)\n\nWhat is at stake for you or someone you know about this issue?\n\n이 쟁점에 관련된 이해관계는 없니?\n\nWhy do you think you care so deeply about this issue?\n\n이 쟁점에 깊이 관여한 이유는 뭐야?\n\nHave you always felt that way?\n\n넌 늘 그렇게 생각하는거야?\n\n\nJH&gt; 남을 판단하는 질문 자제. 그 의견을 가지는 이유는 뭘까? 물어봐야지"
+  },
+  {
+    "objectID": "Storytelling.html",
+    "href": "Storytelling.html",
+    "title": "6  Storytelling",
+    "section": "",
+    "text": "7 Let’s Find someting to Talk About\n이야기가 같고 있는 힘. 그냥 말하는 것보다 한 사람이 자신의 이야기리를 예시로 들며 상대방을 설득하자 더 설득이 잘 되었다.\n목적에 맞는 이야기를 쓰면 상대방은 잠재적으로 주제에 더 집중하고 이해해준다. 눈 앞에 있는 상대방과 연결고리가 있기 때문이다.\n우리가 이야기를 할 때는 3가지를 고려할 것\n1. 진정성이 있어야 한다. - 그 솔직함이 상대방을 공감할 수 있게 한다. 진실을 통해 감정(두려움, 행보그 믿음, 분노)을 공유할 수 있어야 한다.\n2. 중요성 : 말하는 이야기가 상대방에게 중요한 이야기여야 한다.\n3. 요점 : 이야기로 끝나지 않고 요점이 있어야 한다.\n: 간접적인 이야기\n자신이 직접 경험하지 않은 다른 사람의 이야기로 영향을 받는다.\n심경의 영향을 준 뉴스 스토리 : 총격 사건으로 14살 아들을 잃은 부모의 얘기를 본 후 총기 사건이 일어나선 안 된다고 생각하게 되었다. -&gt; 타인의 얘기를 듣고 신념이 변하게 된 예시"
+  },
+  {
+    "objectID": "Storytelling.html#section",
+    "href": "Storytelling.html#section",
+    "title": "6  Storytelling",
+    "section": "6.9 ",
+    "text": "6.9"
+  },
+  {
+    "objectID": "Us and Them.html#lets-recap",
+    "href": "Us and Them.html#lets-recap",
+    "title": "4  Us and Them",
+    "section": "4.1 Let’s Recap",
+    "text": "4.1 Let’s Recap\n\n이중 처리 : 우리의 뇌에는 직관과 추론 영역이 있다.\n\n직관 : 자동적이고, 빠르고, 의식적이며, 감정적이다\n추론 : 느리고, 의식적이며, 노력해야 하고, 논리적이다\n\n-&gt; 우리의 직관이 추론을 이끈다."
+  },
+  {
+    "objectID": "Us and Them.html#mind-reading",
+    "href": "Us and Them.html#mind-reading",
+    "title": "4  Us and Them",
+    "section": "4.2 Mind Reading",
+    "text": "4.2 Mind Reading\n\n정치적 분열에서 코끼리와 탑승자가 어떻게 작동하는지 알아볼 것이다."
+  },
+  {
+    "objectID": "Us and Them.html#what-do-republicans-believe",
+    "href": "Us and Them.html#what-do-republicans-believe",
+    "title": "4  Us and Them",
+    "section": "4.3 What do Republicans Believe?",
+    "text": "4.3 What do Republicans Believe?\n\n공화당을 믿는 사람들과 민주당을 믿는 사람들의 신념과 생각은 완전히 다를까?"
+  },
+  {
+    "objectID": "Us and Them.html#how-we-see-each-other",
+    "href": "Us and Them.html#how-we-see-each-other",
+    "title": "4  Us and Them",
+    "section": "4.4 How We See Each Other",
+    "text": "4.4 How We See Each Other\n\n설문조사 자료를 통해 반대편에 있는 사람들도 똑같이 인종차별, 성차별, 총기규제 문제에 대해 걱정하고 있다."
+  },
+  {
+    "objectID": "Us and Them.html#the-perception-gap",
+    "href": "Us and Them.html#the-perception-gap",
+    "title": "4  Us and Them",
+    "section": "4.5 The Perception Gap",
+    "text": "4.5 The Perception Gap\n\n타인의 실제 신념과 내가 인식하고 있는 그 사람의 신념은 큰 차이가 있다. (인지 차이)\n거의 모든 사람들이 이러한 인지 차이가 있다.\n이런 인지 차이는 다른 사람과 얼마나 많은 상호작용을 하느냐에 따라서 인지 차이에 영향을 받는다."
+  },
+  {
+    "objectID": "Us and Them.html#what-creates-the-perception-gap",
+    "href": "Us and Them.html#what-creates-the-perception-gap",
+    "title": "4  Us and Them",
+    "section": "4.6 What Creates the Perception Gap",
+    "text": "4.6 What Creates the Perception Gap\n\n에코 룸 : 비슷한 사람들끼리 상호 작용하면 그 사람들끼리 상호작용하며 생각이 점점 강해져서 그 공동체와 다른 공동체와 성격이 분리됨\n극단적인 관점이 제일 커진다 : 극단적이고 자극적인 이슈가 미디어에서 주목받는다. 그래서 정치적 견해는 이런 양극단이 될 수 밖에 없다."
+  },
+  {
+    "objectID": "Us and Them.html#the-implications",
+    "href": "Us and Them.html#the-implications",
+    "title": "4  Us and Them",
+    "section": "4.7 The Implications",
+    "text": "4.7 The Implications\n\n우리가 쉽게 생각한 것만큼 나뉘어져 있진 않다.\n실제로, 섭외한 67%의 미국인들은 이런 극단적인 정치 양극화에 지쳐 있다고 하기도 했다."
+  },
+  {
+    "objectID": "Us and Them.html#where-do-our-differences-come-from",
+    "href": "Us and Them.html#where-do-our-differences-come-from",
+    "title": "4  Us and Them",
+    "section": "4.8 Where Do Our Differences Come From?",
+    "text": "4.8 Where Do Our Differences Come From?\n\n도덕기반이론: 우리의 마음은 6가지의 맛을 느끼는 혀와 같다. 세상에 대해 옳고 그름을 판단하는 기준이 6가지가 있다는 뜻.\n\n우리가 맛을 느끼는 체계는 같지만, 각자의 삶의 배경이 다르므로 우리가 맛을 느끼는 정도도 다 다르다\n\n돌봄, 공평, 자유, 충성, 권위, 순결"
+  },
+  {
+    "objectID": "Us and Them.html#our-moral-intuitions",
+    "href": "Us and Them.html#our-moral-intuitions",
+    "title": "4  Us and Them",
+    "section": "4.9 Our Moral Intuitions",
+    "text": "4.9 Our Moral Intuitions\n\n코끼리가 걸러낸 것으로 라이더가 결정을 한다.\n우리가 세상에 대한 정보를 처리할 때 코끼리가 가지고 이쓴 도덕 직관 필터로 세상을 이해한다.\n우리가 미디어를 접할 때 코끼리의 도덕 직관으로 순식간에 필터를 거친다. 이 과정은 정확한 정보를 알기도 전에 이루어진다.\n\n그만큼 도덕직관은 강력하게 우리를 이끈다."
+  },
+  {
+    "objectID": "Us and Them.html#uncovering-the-moral-foundations",
+    "href": "Us and Them.html#uncovering-the-moral-foundations",
+    "title": "4  Us and Them",
+    "section": "4.10 Uncovering the Moral Foundations",
+    "text": "4.10 Uncovering the Moral Foundations\n\n4.10.1 care\n\n돌봄 기반 : 다른 사람을 돌봐주는 것, 위해를 끼치는 것을 막는 것 도덕 기반을 우선시하는 사람들은 공감, 친절함을 우선시한다.\n\n\n\n4.10.2 Faimess\n\n공평: 모두가 공평하게 대접받길 원하기에 사기꾼을 싫어한다. 그리고 직접 속인 사람이 아니더라도 속임수를 싫어한다. 이 공평 기반은 정의, 공평, 상호성을 중요시한다.\n\n\n\n4.10.3 liberty\n\n자유 : 개인의 자유에 대한 이상, 압제에 대한 반대가 높다.\n\n\n\n4.10.4 loyalty\n\n충성 : 내집단에 대한 충성. 윗사람에 대한 충성이 아님. 소속감에 가까움\n\n\n\n4.10.5 authority\n\n권위 : 합법적인 것, 전통에 대한 존중.\n\n\n\n4.10.6 sanctity\n\n성스러움 : 순결하거나 신성에 대한 것. care와는 구분됨. care는 위해를 끼치는 것에 대한 거부. 근데 sanctity는 깨끗한 것, 순수한 것, 순결한 것에 대한 욕망이 있다.\n대표적으로 종교, 자연, 사람의 몸같은 것을 의미."
+  },
+  {
+    "objectID": "Us and Them.html#why-we-disagree-on-right-and-wrong",
+    "href": "Us and Them.html#why-we-disagree-on-right-and-wrong",
+    "title": "4  Us and Them",
+    "section": "4.11 Why We Disagree on Right and Wrong",
+    "text": "4.11 Why We Disagree on Right and Wrong\n\n우리의 도덕 기반은 우리의 믿음을 이해하는데 도움이 되지만 우리가 왜 정치적으로 다른 견해를 가지는지도 이해할 수 있다.\n보수적인 사람과 진보적인 사람은 서로 중심으로 두는 가치가 다르다."
+  },
+  {
+    "objectID": "Us and Them.html#decoding-language",
+    "href": "Us and Them.html#decoding-language",
+    "title": "4  Us and Them",
+    "section": "4.12 Decoding Language",
+    "text": "4.12 Decoding Language\n\n왜 우리가 서로 다른 도덕적 기반을 가지고 있는가에 대한 것"
+  },
+  {
+    "objectID": "Us and Them.html#same-foundations-different-applications",
+    "href": "Us and Them.html#same-foundations-different-applications",
+    "title": "4  Us and Them",
+    "section": "4.13 Same Foundations, Different Applications",
+    "text": "4.13 Same Foundations, Different Applications\n\n둘은 같은 기반을 사용하지만 서로 다른 방법으로 그걸 이슈에 적용했다.\n에이샤는 총기 규제에 대해선 자유를 주장했지만 낙태를 반대할 땐 자유를 주장하지 않았다.\n\n-&gt; 이슈에 대해 도덕 기반을 적용하는 종류는 같을 수 있어도 적용 대상은 다를 수 있다. - 관점이 크게 다른 것 같지만 크게 다르지는 않다"
+  },
+  {
+    "objectID": "Us and Them.html#결론적으로",
+    "href": "Us and Them.html#결론적으로",
+    "title": "4  Us and Them",
+    "section": "4.14 결론적으로",
+    "text": "4.14 결론적으로\n\n반대 의견도 들어보면서 극단적인 사람이 되지 않기 위해 노력해야 한다."
+  },
+  {
+    "objectID": "Storytelling.html#lets-find-someting-to-talk-about",
+    "href": "Storytelling.html#lets-find-someting-to-talk-about",
+    "title": "6  Storytelling",
+    "section": "6.1 Let’s Find someting to Talk About",
+    "text": "6.1 Let’s Find someting to Talk About\n이야기가 같고 있는 힘. 그냥 말하는 것보다 한 사람이 자신의 이야기리를 예시로 들며 상대방을 설득하자 더 설득이 잘 되었다."
+  },
+  {
+    "objectID": "Storytelling.html#the-anatomy-of-a-story",
+    "href": "Storytelling.html#the-anatomy-of-a-story",
+    "title": "6  Storytelling",
+    "section": "6.2 The Anatomy of a Story",
+    "text": "6.2 The Anatomy of a Story\n목적에 맞는 이야기를 쓰면 상대방은 잠재적으로 주제에 더 집중하고 이해해준다. 눈 앞에 있는 상대방과 연결고리가 있기 때문이다.\n우리가 이야기를 할 때는 3가지를 고려할 것\n1. 진정성이 있어야 한다. - 그 솔직함이 상대방을 공감할 수 있게 한다. 진실을 통해 감정(두려움, 행보그 믿음, 분노)을 공유할 수 있어야 한다.\n2. 중요성 : 말하는 이야기가 상대방에게 중요한 이야기여야 한다.\n3. 요점 : 이야기로 끝나지 않고 요점이 있어야 한다."
+  },
+  {
+    "objectID": "Storytelling.html#theres-a-stroy-for-everthing",
+    "href": "Storytelling.html#theres-a-stroy-for-everthing",
+    "title": "6  Storytelling",
+    "section": "6.3 There’s a stroy For Everthing",
+    "text": "6.3 There’s a stroy For Everthing\n\n어떤 문제에 대해 감정을 느끼는데 꼭 직접적인 경험이 필요하지 않다.\n\n\n\n우리는 문제에 대해 강한 감정을 갖지만, 그 원인에 대해 생각하지 않는다. 하지만 시간을 내어 생각해보면 문제에 대해 느끼는 방식에는 이유가 있을 것이다."
+  },
+  {
+    "objectID": "Storytelling.html#secondhand-stories",
+    "href": "Storytelling.html#secondhand-stories",
+    "title": "6  Storytelling",
+    "section": "6.4 Secondhand Stories",
+    "text": "6.4 Secondhand Stories\n: 간접적인 이야기\n자신이 직접 경험하지 않은 다른 사람의 이야기로 영향을 받는다.\n심경의 영향을 준 뉴스 스토리 : 총격 사건으로 14살 아들을 잃은 부모의 얘기를 본 후 총기 사건이 일어나선 안 된다고 생각하게 되었다. -&gt; 타인의 얘기를 듣고 신념이 변하게 된 예시\n\n가족의 신념 : 자신의 할머니와 굉장히 친했다. 할머니는 종교인이고 모든 인간의 순결함을 굉장히 우선시하는 의사다. 그녀는 거의 5주동안 심장 박동을 가지고 있다고 얘기했고, 그 얘기를 들었을 때 자신이 종교인은 아니지만 낙태에 반대해야 겠다고 생각했다. -&gt; 가족의 신념이 전이된 예시\n친구&지인의 얘기를 통해 신념이 형성된 사례 : 에콰도르에서 이민을 온 룸메이트가 있었음. 불법이민 신분이기에 시민권도 못 따고 생활에 불편한 점이 많았음. 이런 얘기를 듣고 이민자들이 시민권을 갖는 게 얼마나 중요한 것인지 알게 되었다고 한다.\n대중적으로 유명한 사람이 영향을 준 사례 -&gt; 존경하는 작가가 아팔레치아(미국에 있는 산맥)에서 자란 아이에 대한 이야기를 씀. 기후변화로 인해 아팔레치아 사람들이 일자리를 잃게 되었다는 걸 알게 되고 기후변화에 대해 부정적인 시각을 갖게 되었다."
+  },
+  {
+    "objectID": "Storytelling.html#the-burden-of-stories",
+    "href": "Storytelling.html#the-burden-of-stories",
+    "title": "6  Storytelling",
+    "section": "6.5 The Burden of Stories",
+    "text": "6.5 The Burden of Stories\n\n이야기를 할 때 자신이 너무 불편한 상황까지는 부딪힐 이유는 없다.\n하지만 이야기를 할 수 있는 능력을 키우는 건 중요하다.\n\n이는 건설적 대화를 하는데 굉장히 중요한 능력이기 때문이다.\n우리는 얼마든지 이야기를 하는 능력을 갖출 수 있다.\n\n쉽지 않지만 이야기를 할 줄 아는 건 여러분의 삶에 굉장히 도움이 될 것이다."
+  },
+  {
+    "objectID": "Storytelling.html#responding-to-stories",
+    "href": "Storytelling.html#responding-to-stories",
+    "title": "6  Storytelling",
+    "section": "6.6 Responding to Stories",
+    "text": "6.6 Responding to Stories\n\n이야기를 하는 건 중요하지만 다른 사람의 이야기를 듣는 것도 중요하다 -&gt; 하지만 실천하는 건 말만큼 쉽지 않다\n다른 사람한테 자신이 경청하고 있다는 걸 표현하는 것 또한 중요하다\n\n인정 : 들었을 때 잠깐 멈추고 첫 반응을 제시하고 감탄하는 것.\n미러 : 말한 것을 그 사람에게 말해줘라. 상대가 말을 듣고 있다는 걸 알게 해 준다.\n재진술 : 상대가 말한 것의 가치와 감정을 읽어서 이를 다시 말해주는 것.(미러와 다르다고 생각해야 함)\n\n언제 어디서나 총기를 얻을 수 있어야 한다고 생각해 -&gt; 넌 가족의 안전과 보호에 관심이 많구나. 그래서 총기를 사용하려는 자유를 중요하게 여기는 구나.\n\n공감 : 똑같은 방식으로 느끼지 않더라도 상대방이 느낀 것을 같이 느끼려고 노력하는 것"
+  },
+  {
+    "objectID": "Storytelling.html#life-hack",
+    "href": "Storytelling.html#life-hack",
+    "title": "6  Storytelling",
+    "section": "6.7 Life Hack",
+    "text": "6.7 Life Hack\n\n이야기를 할 때 직접 연습을 해 봐야 한다. 그들의 이야기를 해보라고 한 후 듣는 연습을 해야 한다.\n\n정직, 중요성, 요점을 기억할 것"
+  },
+  {
+    "objectID": "Storytelling.html#lesson-4-recap",
+    "href": "Storytelling.html#lesson-4-recap",
+    "title": "6  Storytelling",
+    "section": "6.8 Lesson 4 Recap",
+    "text": "6.8 Lesson 4 Recap\n\n이야기는 사람들의 직관을 끼어들어서 상대가 수용적으로 받아들이도록 도와준다.\n이야기는 솔직해야 하고, 중요해야 하고, 요점이 있어야 한다. 직접적인 경험없이 간접적인 경험만으로도 충분하다.\n이야기를 듣고 반응하는 것 또한 상대에게 많은 영향을 주기 때문에 중요하다"
+  },
+  {
+    "objectID": "Comment.html#이-강의를-듣고서",
+    "href": "Comment.html#이-강의를-듣고서",
+    "title": "8  Comment",
+    "section": "8.1 이 강의를 듣고서",
+    "text": "8.1 이 강의를 듣고서\n자주는 아니지만 종종 뉴스를 봅니다. 기사를 읽다보면 다른 사람의 의견도 궁금해져서 종종 댓글을 보는데 그러다보면 제 생각과 전혀 일치하지 않아서 ’왜 이렇게 생각하는 거지?’라는 의문에 빠집니다. 왜냐하면 누가봐도 제 의견이 옳고, 정당하다고 느끼기 때문입니다. 그래서 저와 다른 의견을 가진 사람들은 틀리고, 잘못된 생각을 가진 사람들이라고 판단하곤 합니다.\n하지만 이 수업을 들으며 항상 그렇지만은 않다는 것을 깨달았습니다. ‘Us and Them’ 단원에서 민주당이나 공화당이든 지지 정당은 달라도 총기 규제나 낙태 문제에 대해 똑같이 고민하고, 옳지 않은 일이라고 생각한다는 설문 조사를 보며 문제에 대해 적용되는 도덕 기준이 다를 뿐이라는 것을 알게 되었습니다. 이런 부분을 통해 평소에 제가 얼마나 편협하고 극단적인 가치관을 가지고 있는지에 대해 느끼게 되었습니다.\n특히 총기 규제에 대해 새로운 관점을 가지게 되었습니다. 한국은 총기 소지 자체가 불법이기 때문에 총기를 들고 다닌 다는 사실 자체에 부정적이지만, 미국은 수정 헌법 2조에 총기 소지에 대한 자유가 명시되어 있을 정도로 이 문제에 대한 개인의 선택을 존중합니다. 그렇기에 총기가 만연한 만큼 다른 사람들도 가지고 있는데 본인이 들고 있지 않는다는 불안함이 존재하기에 개인을 보호하기 위해 어떤 점에선 총기 소유가 필수불가결하단 걸 알게 되었습니다.\n그렇다고 해서 총기 소지에 대해 찬성하는 것은 아닙니다. 여전히 총기 소지는 불법으로 정해야 하고, 국민이 총기를 소유하는 건 지나치게 위험하다는 생각은 변하지 않았습니다. 하지만 어떤 이들에게 총기 소지가 어쩔 수 없이 필요할 수 있다는 점은 이해하게 되었습니다. 이런 과정을 통해 상대의 입장을 이해해보려는 ’탐험가적 마인드’의 중요성에 대해 느낍니다. 상대의 입장을 이해하기 전의 저라면 아마도 총기 규제는 절대적으로 나쁜 것이라며 ’싸움꾼의 마인드’로 상대방의 의견을 들어볼 생각도 하지 않고 의미 없는 논쟁을 하게 될 것입니다. 하지만 상대를 이해하고 있는 저는 ’탐험가적 마인드’로 상대를 이해하며 상대에게 공감하며 ’논쟁’을 위한 대화가 아니라 ’설득’을 위한 대화로 더 나은 결과를 얻을 수 있을 것입니다.\n상대방의 의견은 ’다른’것이지 ’틀린’게 아니다는 것을 진심으로 이해하는 건 매우 어려운 일입니다. 특히 저는 한 가지를 결단 내리면 다른 사람이 반대해도 그대로 밀고 나가는 경향이 있기 때문에 더욱 그렇습니다. 그렇기에 저는 상대를 이해하고 제대로된 대화를 진행하기 위한 이번 수업이 매우 좋은 기회가 되었으며 앞으로 이런 부분을 실생활에서 실천하기 위해 노력할 것입니다."
+  },
+  {
+    "objectID": "The Divided Mind.html#our-ancient-brains",
+    "href": "The Divided Mind.html#our-ancient-brains",
+    "title": "3  The Divided Mind",
+    "section": "3.1 Our Ancient Brains",
+    "text": "3.1 Our Ancient Brains\n\n우리를 답답하게 하는 여러가지 불일치가 여러가지 일이 있지만 그것은 우리의 뇌가 어떻게 작동하는지 모르기 때문이다.\n우리는 복잡하고 상호 연결된 사회에서 살고 있지만 우리의 뇌는 그 기술을 따라갈 만큼 업데이트 되지 않았다.\n\n우리의 뇌는 우리 근대 사회에 적절하게 진화되지 않은 것을 알 수 있음"
+  },
+  {
+    "objectID": "The Divided Mind.html#mental-shortcuts",
+    "href": "The Divided Mind.html#mental-shortcuts",
+    "title": "3  The Divided Mind",
+    "section": "3.2 Mental Shortcuts",
+    "text": "3.2 Mental Shortcuts\n\n우리의 뇌는 초기에 생존에 맞춰서 발전해왔다. 정보를 아주 빠르게 처리하는 방법을 발전시켜 왔다\n그래서 생각을 빨리 하는 지름길을 여러 개 만들었다는 걸 알 수 있다\n우리는 여전히 주변 세상을 이해하는데 정신적 지름길을 이용하는데 현대에 와서 추론하고 의사 결정하는데 실수하게 만든다"
+  },
+  {
+    "objectID": "The Divided Mind.html#our-divdied-minds",
+    "href": "The Divided Mind.html#our-divdied-minds",
+    "title": "3  The Divided Mind",
+    "section": "3.3 Our Divdied Minds",
+    "text": "3.3 Our Divdied Minds\n\n우리의 뇌는 자동으로 처리되는 부분과 조절할 수 있는 부분 두 개로 나뉜다\n\n자동적인 : 감정, 직관적인 부분(생존 관련)\n통제할 수 있는 부분 : 의식적이고 분석적인 정보 처리를 한다(정보 처리가 느린 편)"
+  },
+  {
+    "objectID": "The Divided Mind.html#a-good-deal",
+    "href": "The Divided Mind.html#a-good-deal",
+    "title": "3  The Divided Mind",
+    "section": "3.4 A good Deal",
+    "text": "3.4 A good Deal\n\n중고차를 사려고 했는데 아주 좋은 차가 나왔다 근데 전 차 주인이 아주 유명한 연쇄살인마다.\n살것인가?"
+  },
+  {
+    "objectID": "The Divided Mind.html#the-rider-and-elephant",
+    "href": "The Divided Mind.html#the-rider-and-elephant",
+    "title": "3  The Divided Mind",
+    "section": "3.5 The Rider and Elephant",
+    "text": "3.5 The Rider and Elephant\n\n많은 사람들이 그 차를 사지 않으려 한다.(즉각적인 반응) 대부분은 이를 역겨워 한다.\n우리의 마음은 코끼리에 탄 사람의 마음에 비교할 수 있다\n\n통제할 수 있는 부분과 자동적인 부분의 격차가 얼마나 큰지 이해하게 하는 비유 : 고삐를 쥘 수 있지만 굉장히 힘이 센 동물 위에 앉아 있다.\n밤에 자야 하는데 TV를 보거나 계획을 미루는 것은 자동적인 부분(코끼리)를 따라간다고 할 수 있음"
+  },
+  {
+    "objectID": "The Divided Mind.html#intuitions-first-reasoning-second",
+    "href": "The Divided Mind.html#intuitions-first-reasoning-second",
+    "title": "3  The Divided Mind",
+    "section": "3.6 Intuitions First, Reasoning Second",
+    "text": "3.6 Intuitions First, Reasoning Second\n\n우리의 코끼리는 굉장히 큰 역할을 한다. 무언가를 할 때 직관이 먼저 작동하고 의식이 그 직관을 합리화하고 정의한다\n\n이건 너무 빠르게 일어나는 일이라 의식할 수 없음.\n그래서 이런 결정을 라이더가 했다고 착각하게 함\n\n직관이 먼저 작동하고 추론은 나중에 그걸 합리화한다."
+  },
+  {
+    "objectID": "The Divided Mind.html#autopilot",
+    "href": "The Divided Mind.html#autopilot",
+    "title": "3  The Divided Mind",
+    "section": "3.7 Autopilot",
+    "text": "3.7 Autopilot\n\n자동적인 게 나쁜 건 아닌데 너무 빨리 일어나다 보니까 혼돈스러울 때가 있다."
+  },
+  {
+    "objectID": "The Divided Mind.html#cognitive-biases인지-편향",
+    "href": "The Divided Mind.html#cognitive-biases인지-편향",
+    "title": "3  The Divided Mind",
+    "section": "3.8 Cognitive Biases(인지 편향)",
+    "text": "3.8 Cognitive Biases(인지 편향)\nConfirmation Bias(확증편향)\n\n우리가 이미 갖고 있는 신념과 일치하는 것은 쉽게 받아들이고 맞지 않는 것은 거절한다."
+  },
+  {
+    "objectID": "The Divided Mind.html#whose-facts",
+    "href": "The Divided Mind.html#whose-facts",
+    "title": "3  The Divided Mind",
+    "section": "3.9 Whose Facts?",
+    "text": "3.9 Whose Facts?\n\n우리의 코끼리는 정보를 기존의 직관, 느낌으로 걸러낸다 우리는 이걸 의식하지 못할 뿐만 아니라 합리화하는 걸 돕는다"
+  },
+  {
+    "objectID": "The Divided Mind.html#life-hack-swapping-places",
+    "href": "The Divided Mind.html#life-hack-swapping-places",
+    "title": "3  The Divided Mind",
+    "section": "3.10 Life Hack: Swapping Places",
+    "text": "3.10 Life Hack: Swapping Places\n\n스스로의 확증편향은 알아채기 어렵지만 확인할 수 있는 방법이 있다. 우리는 이걸 ’입장 바꿔보기’라고 부른다.\n확증편향에서 벗어나는 방법\n\n내 생각이 가장 보편화된 것이라고 확신할 때\n다른 입장이나 예외를 찾아 볼 것"
+  },
+  {
+    "objectID": "The Divided Mind.html#lesson-1-recap",
+    "href": "The Divided Mind.html#lesson-1-recap",
+    "title": "3  The Divided Mind",
+    "section": "3.11 Lesson 1 Recap",
+    "text": "3.11 Lesson 1 Recap\n\n우리의 뇌는 두 가지 시스템이 있다 : 자동적인 것과 통제할 수 있는것\n우리의 이성은 종종 직관을 따른다\n이 두 가지는 상충되는데 우리는 이걸 알아차리지 못한다\n우리가 실수하는 이유는 이 두 가지 요소가 의견을 불일치 했기 때문"
+  },
+  {
+    "objectID": "Get Curious.html#warrior-mindset",
+    "href": "Get Curious.html#warrior-mindset",
+    "title": "5  Get Curious",
+    "section": "5.1 Warrior Mindset",
+    "text": "5.1 Warrior Mindset\n\n같은 도덕 기반을 갖고 있지만 우리는 종종 특정한 가치만이 옳다고 생각할 수 있다. 그 결과 서로 의견 불일치가 생긴다.\n이기고 지는 경쟁관계가 되면 제로섬 관계가 된다. 이런 싸움꾼의 마음가짐으로서는 이기는 마음가짐만 있고 듣는 것이 이뤄지지 않는다."
+  },
+  {
+    "objectID": "Get Curious.html#warriors-lose",
+    "href": "Get Curious.html#warriors-lose",
+    "title": "5  Get Curious",
+    "section": "5.2 Warriors Lose",
+    "text": "5.2 Warriors Lose\n\n이기면 기분은 좋겠지만 이건 안 좋은 결과로 이끈다.’\n\n다른 한 쪽을 방어적인 쪽으로 이끌거나\n공격/모욕/위협 받는 것처럼 느껴지게 한다.\n그 사람과의 관계는 손상된다.\n-&gt; 싸움꾼의 마인드 셋은 별로 안 좋다는 것을 알 수 있다."
+  },
+  {
+    "objectID": "Get Curious.html#being-wrong",
+    "href": "Get Curious.html#being-wrong",
+    "title": "5  Get Curious",
+    "section": "5.3 Being Wrong",
+    "text": "5.3 Being Wrong\n\n모든 사람들은 내가 옳다는 느낌을 받고 싶어하고, 자신이 틀리다는 느낌을 싫어한다.\n우리는 가끔씩 틀리는데 그런 느낌을 받지 못했을 때 틀린다."
+  },
+  {
+    "objectID": "Get Curious.html#설명-깊이의-착각",
+    "href": "Get Curious.html#설명-깊이의-착각",
+    "title": "5  Get Curious",
+    "section": "5.4 설명 깊이의 착각",
+    "text": "5.4 설명 깊이의 착각\n\n우리는 어떤 기계의 작동 원리를 잘 알고 있다고 착각함.\n세상의 복잡한 쟁점에 대해서는 자신이 잘 안다고 생각하지만 실제로는 그렇지 않다\n설명하다 보면 내가 생각보다 잘 알고 있지 않다는 것을 알 수 있다"
+  },
+  {
+    "objectID": "Get Curious.html#embracing-not-knowing",
+    "href": "Get Curious.html#embracing-not-knowing",
+    "title": "5  Get Curious",
+    "section": "5.5 Embracing Not Knowing",
+    "text": "5.5 Embracing Not Knowing\n\n우리는 실제로 잘 알지 못하지만 그 쟁점에 대해 강한 인상은 있다.\n설명 해 보라고 했을 때 우리는 이걸 잘 알고 있지 못하다는 걸 알 수 있다. 그런 사실을 알고 있는 게 굉장히 건강한 일이라는 걸 알 수 있다."
+  },
+  {
+    "objectID": "Get Curious.html#intellectual-humility",
+    "href": "Get Curious.html#intellectual-humility",
+    "title": "5  Get Curious",
+    "section": "5.6 Intellectual Humility",
+    "text": "5.6 Intellectual Humility\n\n우리가 알고 있는 것에 한정되어 있고, 자신이 틀릴 수 있다는 걸 인정하는 게 굉장히 중요하다 이런 걸 ’지적 겸손’이라고 한다.\n\n내가 틀렸다는 걸 받아들이는 게 삶의 이유다\n비판을 잘 받아들일 수 있어야 함.\n자신이 틀리는 걸 자신의 성장 기회로 봄"
+  },
+  {
+    "objectID": "Get Curious.html#belief-updating",
+    "href": "Get Curious.html#belief-updating",
+    "title": "5  Get Curious",
+    "section": "5.7 Belief Updating",
+    "text": "5.7 Belief Updating\n\n흑백논리에 있지만, 그 중간에 있을 순 없을까?\n\n내가 전부 다 틀린게 아니라, 내 확신을 새로운 사실 혹은 근거에 의해 확신도를 떨어트린다면 !\n\nBelief Updating = 생각을 / 신념을 업데이트!"
+  },
+  {
+    "objectID": "Get Curious.html#changing-your-mind",
+    "href": "Get Curious.html#changing-your-mind",
+    "title": "5  Get Curious",
+    "section": "5.8 Changing Your Mind",
+    "text": "5.8 Changing Your Mind\n\n내 신념을 업데이트 할 수 있는 마음가짐을 가지고 있는 것이 중요함.\n탐험가의 마음가짐이 필요. ‘열린 마음’"
+  },
+  {
+    "objectID": "Get Curious.html#explorer-mind",
+    "href": "Get Curious.html#explorer-mind",
+    "title": "5  Get Curious",
+    "section": "5.9 Explorer Mind",
+    "text": "5.9 Explorer Mind\n\nCurious: 호기심을 가져라.\n\n무조건적인 반박 X. 니가 왜 그런 생각을 하는지 궁금해. 왜 그 사람들은 늘 그렇게 느끼는걸까?\n\nGood Q: 좋은 질문을 해라\n\n남을 판단하고 공격하는 질문은 하지 마라! 넌 잘 몰라 이런 뉘앙스. 조언식의 질문."
+  },
+  {
+    "objectID": "Get Curious.html#constructive-questions",
+    "href": "Get Curious.html#constructive-questions",
+    "title": "5  Get Curious",
+    "section": "5.10 Constructive Questions",
+    "text": "5.10 Constructive Questions\n\nAre Genuinely Curious: 니가 정말 궁금해하는 거냐\n\n진정 궁금한거냐? 알고싶어하는 진실된 마음.\n\n니가 그 말 했잖아. 그 말이 무슨 의민지 나한테 좀 더 얘기해줄래?\n\n\nAre open-ended: 열린 질문\n\n간단하게 예스/노로 대답 가능한 질문 말고! 왜 그런거야? 어떻게 그렇게 된거야? 같은 열린 질문을 해라\n\nInvite complexity: 복잡한 내용을 준비해라\n\n중간지점인 흑백지역(복잡한 지점)을 나눠라.\n\n넌 늘 이런식으로 느꼈니? 널 헷갈리게 하는 요소는 없을까?\n\n\nInvite stories: 이야기를 끌어내라\n\n사실과 숫자에 대한 이야기 대신 그 사람에 관한 이야기를 해라.\n\n널 그렇게 믿도록 한 너의 삶에 대해 얘기해줄래? 왜 그런 믿음을 가지게 된거야? 스토리를 공유하게끔.\n\n\nUse a curious tone: 궁금증의 톤을 갖고 있어라.\n\n판단하고 비난하는 듯한 톤이 들어가지 않도록 유의. 호기심 가지는 톤!"
   }
 ]

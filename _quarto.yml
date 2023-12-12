@@ -9,10 +9,12 @@ book:
     - index.qmd
     - intro.qmd
     - plusfile.qmd
-    - sol_7.qmd
-    - sol_10.qmd
-    - sol_11.qmd
-    - sOl_13.qmd
+    - The Divided Mind.qmd
+    - Us and Them.qmd
+    - Get Curious.qmd
+    - Storytelling.qmd
+    - Navigating Conflict.qmd
+    - Comment.qmd
 
 bibliography: references.bib
 

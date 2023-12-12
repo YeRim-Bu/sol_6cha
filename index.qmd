@@ -1,9 +1,10 @@
-# Preface {.unnumbered}
+# 해결지향소통 {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+1.  쿼토북을 깃허브에 연결하기
+2.  페이지 추가하기
+3.  The Divided Mind
+4.  Us and Them
+5.  Get Curious
+6.  Storytelling
+7.  Navigating Conflict
+8.  Comment
